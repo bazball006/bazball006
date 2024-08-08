@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=0.5">
      <div class="image-container">
-        <img class="profile-image" align="center" src="https://github.com/user-attachments/assets/61a354cd-7e37-42c7-bea6-bc20259dd820" alt="profile" width="600" height="300" />
+        <img class="profile-image" align="center" src="https://github.com/user-attachments/assets/61a354cd-7e37-42c7-bea6-bc20259dd820" alt="profile" width="1000" height="400" />
     </div>
   
 </head>
