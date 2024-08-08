@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=0.5">
      <div class="image-container">
-        <img class="profile-image" align="center" src="https://github.com/user-attachments/assets/61a354cd-7e37-42c7-bea6-bc20259dd820" alt="profile" width="1000" height="400" />
+        <img class="profile-image" align="center" src="https://github.com/user-attachments/assets/61a354cd-7e37-42c7-bea6-bc20259dd820" alt="profile" width="1000" height="440" />
     </div>
   
 </head>
            <header>
             <h1 align="center"> Hi 👋, I'm BlitzFury</h1>
-            <h3>👀 I’m interested in Computer Sciences and Artificial Intelligence</h3>
+            <h3 align="center"> I’m interested in Computer Sciences and Artificial Intelligence</h3>
             <p>🤖 Just Bazball mindset!!</p>
             <p>😄 Pronouns: He/Him</p>
             <p>⚡ Fun fact: I am a cricket analyst...</p>
