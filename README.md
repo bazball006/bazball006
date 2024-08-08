@@ -14,9 +14,10 @@
            <header>
             <h1 align="center"> Hi 👋, I'm BlitzFury</h1>
             <h3>👀 I’m interested in Computer Sciences and Artificial Intelligence</h3>
-            <p>📫 Just Bazball mindset</p>
+            <p>🤖 Just Bazball mindset!!</p>
             <p>😄 Pronouns: He/Him</p>
             <p>⚡ Fun fact: I am a cricket analyst...</p>
+            <p>🙂I am looking forward to research more on these type of platforms..</p>
         </header>
         <section>
             <h3 align="left">Contact Me:</h3>
@@ -24,7 +25,7 @@
             <p>Instagram: <a href="https://www.instagram.com/t_k_sinha_2005" target="_blank">t_k_sinha_2005</a></p>
         </section>
         <section>
-            <h3 align="left">Connect with me:</h3>
+            <h3 align="left">Follow and coonect with me on:</h3>
             <p class="social-icons">
                 <a href="https://linkedin.com/in/tanishq-kumar-sinha-66b731275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
                 <a href="https://instagram.com/t_k_sinha_2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
