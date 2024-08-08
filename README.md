@@ -4,13 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=0.5">
   
-  
 </head>
-<body>
-    <div class="image-container">
-        <img class="profile-image" src="https://github.com/user-attachments/assets/61a354cd-7e37-42c7-bea6-bc20259dd820" alt="profile" />
-    </div>
-</body>
            <header>
             <h1 align="center"> Hi 👋, I'm BlitzFury</h1>
             <h3>👀 I’m interested in Computer Sciences and Artificial Intelligence</h3>
@@ -46,9 +40,9 @@
             </p>
         </section>
         <section>
-            <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bazball006&show_icons=true&locale=en&layout=compact" alt="bazball006" /></p>
-            <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bazball006&show_icons=true&locale=en" alt="bazball006" /></p>
-            <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bazball006&" alt="bazball006" /></p>
+            <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bazball006&show_icons=true&locale=en&layout=compact" alt="bazball006" /></p>
+            <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bazball006&show_icons=true&locale=en" alt="bazball006" /></p>
+            <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bazball006&" alt="bazball006" /></p>
         </section>
 <!---
 bazball006/bazball006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
