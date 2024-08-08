@@ -12,7 +12,7 @@
     </div>
 </body>
            <header>
-            <h1>Hi 👋, I'm BlitzFury</h1>
+            <h1 align="center"> Hi 👋, I'm BlitzFury</h1>
             <h3>👀 I’m interested in Computer Sciences and Artificial Intelligence</h3>
             <p>📫 Just Bazball mindset</p>
             <p>😄 Pronouns: He/Him</p>
